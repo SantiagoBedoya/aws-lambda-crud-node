@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "dev": "sls offline"
+  },
+  "dependencies": {
+    "aws-sdk": "^2.1129.0",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "serverless-offline": "^8.7.0"
+  }
+}
